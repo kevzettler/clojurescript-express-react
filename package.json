@@ -1,0 +1,15 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "private": "true",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "source-map-support": "0.2.8",
+    "ws": "0.7.1"
+  }
+}
